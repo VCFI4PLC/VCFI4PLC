@@ -1,0 +1,10 @@
+menu "TEEPLC TEST Driver"
+comment "TEEPLC TEST Driver Config"
+
+config TEEPLC
+	tristate "teeplc module test"
+	default m
+	help
+	This is the teeplc module driver
+	
+endmenu 
