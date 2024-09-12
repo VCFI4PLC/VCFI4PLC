@@ -1,4 +1,4 @@
-## Variable Control Flow Integrity for Programmable Logic Controller
+## Variable-grained Control Flow Integrity for Programmable Logic Controller
 
 This work was implemented on Raspberry Pi CM4 with OpenPLC_v3, Arm-Trusted-Firmware, and Linux kernel 5.8.y.
 #### Step 0: install rpi raspbian
